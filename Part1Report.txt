@@ -1,0 +1,8 @@
+Server and Client:
+
+Both the C client and server can be ran by typing ./lab1Client and ./lab1Server, respectively. They can interact with their python counterparts, however the destination IP address in the clients may need to manually changed, as the C server and python server are configured to different IP addresses.
+
+DOS Attack
+
+This DOS attack is also known as a "SYN Flood attack". In this particular DOS attack, the target is flooded with multiple SYN packets. However, the target never receives the expected ACK packet for each connection. This causes multiple open connections to be established, eventually overflowing the target's capacity to handle all the incoming connections. The pcap file shows the multitude of SYN ACK packets that the target has sent back, but also how there's no ACK packets being sent in return.
+However, this attack is countered by SYN Cookies, where the target will essentially place the responsibility of maintaining the connection on the client. This is done by sending a hash of the data for the connection to the client, so the client is able to respond with the proper response when it is able to finalize the connection.

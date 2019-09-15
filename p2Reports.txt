@@ -1,0 +1,472 @@
+asn_description: TELIANET Telia Carrier, SE
+CIDR: 104.123.128.0/20
+Number of IP Addresses: 1048576
+
+asn_description: SFU-AS - Simon Fraser University, CA
+CIDR: 142.58.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+CIDR: 107.180.0.0/17
+Number of IP Addresses: 131072
+
+asn_description: NFORCE, NL
+CIDR: 203.159.81.0/24
+Number of IP Addresses: 16777216
+
+asn_description: AKAMAI-ASN1, US
+CIDR: 23.45.96.0/20
+Number of IP Addresses: 1048576
+
+asn_description: M6WEB, FR
+CIDR: 141.138.90.0/23, 141.138.92.0/24
+Number of IP Addresses: 4
+
+asn_description: GOOGLE - Google LLC, US
+CIDR: 104.154.0.0/15
+Number of IP Addresses: 32768
+
+asn_description: ASPIRE01, GB
+CIDR: 148.253.163.0/24
+Number of IP Addresses: 16777216
+
+asn_description: XIAONIAOYUN Shenzhen Qianhai bird cloud computing Co. Ltd., CN
+CIDR: 103.45.156.0/22
+Number of IP Addresses: 4194304
+
+asn_description: Belize Telemedia Limited, BZ
+CIDR: 179.42.192.0/18
+Number of IP Addresses: 262144
+
+asn_description: FTG-AS-AP Forewin Telecom Group Limited, ISP at, HK
+CIDR: 115.126.119.0/24
+Number of IP Addresses: 16777216
+
+asn_description: E&L Producoes de Software Ltda, BR
+CIDR: 177.91.192.0/19
+Number of IP Addresses: 524288
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 104.64.0.0/10
+Number of IP Addresses: 1024
+
+asn_description: HINET Data Communication Business Group, TW
+CIDR: 36.224.0.0/12
+Number of IP Addresses: 4096
+
+asn_description: CLOUDFLARENET - Cloudflare, Inc., US
+CIDR: 172.64.0.0/13
+Number of IP Addresses: 8192
+
+asn_description: TMNET-AS-AP TM Net, Internet Service Provider, MY
+CIDR: 23.32.0.0/11, 23.64.0.0/14
+Number of IP Addresses: 2
+
+asn_description: SINET-AS Research Organization of Information and Systems, National Institute of Informatics, JP
+CIDR: 133.0.0.0/8
+Number of IP Addresses: 256
+
+asn_description: KIXS-AS-KR Korea Telecom, KR
+CIDR: 183.96.0.0/11
+Number of IP Addresses: 2048
+
+asn_description: WICHMANN-AS, DE
+CIDR: 84.17.108.0/22, 84.17.112.0/20
+Number of IP Addresses: 4
+
+asn_description: MAXIS-AS1-AP Binariang Berhad, MY
+CIDR: 14.192.192.0/18
+Number of IP Addresses: 262144
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 104.64.0.0/10
+Number of IP Addresses: 1024
+
+asn_description: INES Bucharest / ROMANIA, RO
+CIDR: 194.102.203.0/24
+Number of IP Addresses: 16777216
+
+asn_description: Telmex Colombia S.A., CO
+CIDR: 190.156.0.0/15
+Number of IP Addresses: 32768
+
+asn_description: Compa\195\177\195\173a Dominicana de Tel\195\169fonos, C. por A. - CODETEL, DO
+CIDR: 148.101.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: RACKSPACE-LON, GB
+CIDR: 162.13.218.100/30
+Number of IP Addresses: 1073741824
+
+asn_description: EGIHOSTING - EGIHosting, US
+CIDR: 107.187.95.0/24
+Number of IP Addresses: 16777216
+
+asn_description: MPC-, PL
+CIDR: 91.228.136.0/22
+Number of IP Addresses: 4194304
+
+asn_description: OPENTRANSIT, FR
+CIDR: 23.32.0.0/11, 23.64.0.0/14
+Number of IP Addresses: 2
+
+asn_description: AKAMAI-ASN1, US
+CIDR: 23.192.0.0/11
+Number of IP Addresses: 2048
+
+asn_description: AS-26496-GO-DADDY-COM-LLC - GoDaddy.com, LLC, US
+CIDR: 166.62.0.0/17
+Number of IP Addresses: 131072
+
+asn_description: CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+CIDR: 39.96.0.0/13, 39.104.0.0/14, 39.108.0.0/16
+Number of IP Addresses: 2
+
+asn_description: FORETHOUGHTNET - FORETHOUGHT.net, US
+CIDR: 74.112.18.0/24
+Number of IP Addresses: 16777216
+
+asn_description: LITESERVER, NL
+CIDR: 5.2.70.0/24
+Number of IP Addresses: 16777216
+
+asn_description: UMANITOBA - University of Manitoba, CA
+CIDR: 130.179.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: AMAZON-02 - Amazon.com, Inc., US
+CIDR: 52.208.0.0/13
+Number of IP Addresses: 8192
+
+asn_description: EGIHOSTING - EGIHosting, US
+CIDR: 142.252.132.0/24
+Number of IP Addresses: 16777216
+
+asn_description: KIXS-AS-KR Korea Telecom, KR
+CIDR: 175.192.0.0/12, 175.208.0.0/13
+Number of IP Addresses: 2
+
+asn_description: LGI-UPC formerly known as UPC Broadband Holding B.V., AT
+CIDR: 94.113.64.0/18, 94.113.128.0/19, 94.113.160.0/20, 94.113.176.0/22, 94.113.180.0/23
+Number of IP Addresses: 2
+
+asn_description: POWERLINE-AS-AP POWER LINE DATACENTER, HK
+CIDR: 154.213.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+CIDR: 36.83.16.0/20
+Number of IP Addresses: 1048576
+
+asn_description: UNIFIEDLAYER-AS-1 - Unified Layer, US
+CIDR: 216.172.160.0/19
+Number of IP Addresses: 524288
+
+asn_description: OPTINET, ZA
+CIDR: 41.86.96.0/19
+Number of IP Addresses: 524288
+
+asn_description: HOMEPL-AS, PL
+CIDR: 79.96.0.0/17
+Number of IP Addresses: 131072
+
+asn_description: WASHINGTON-AS - University of Washington, US
+CIDR: 205.175.96.0/19
+Number of IP Addresses: 524288
+
+asn_description: BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
+CIDR: 62.219.67.0/24
+Number of IP Addresses: 16777216
+
+asn_description: TWC-10796-MIDWEST - Charter Communications Inc, US
+CIDR: 162.152.0.0/14
+Number of IP Addresses: 16384
+
+asn_description: ASN-BOUYGTEL-ISP, FR
+CIDR: 176.185.0.0/16, 176.186.0.0/15, 176.188.0.0/15, 176.190.0.0/16
+Number of IP Addresses: 2
+
+asn_description: EGIHOSTING - EGIHosting, US
+CIDR: 104.252.6.0/24
+Number of IP Addresses: 16777216
+
+asn_description: CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
+CIDR: 117.187.0.0/16, 117.188.0.0/15
+Number of IP Addresses: 2
+
+asn_description: CPI-NET KDDI Web Communications Inc., JP
+CIDR: 150.26.0.0/15, 150.28.0.0/14, 150.32.0.0/11, 150.64.0.0/12, 150.80.0.0/13, 150.88.0.0/14, 150.92.0.0/15, 150.94.0.0/16, 150.95.0.0/20
+Number of IP Addresses: 2
+
+asn_description: SYMPHONY-AS-AP Symphony Communication (Thailand) PCL., TH
+CIDR: 146.88.36.0/24
+Number of IP Addresses: 16777216
+
+asn_description: TELKOMNET-AS-AP PT Telekomunikasi Indonesia, ID
+CIDR: 125.164.0.0/18
+Number of IP Addresses: 262144
+
+asn_description: OVH, FR
+CIDR: 193.70.94.0/25
+Number of IP Addresses: 33554432
+
+asn_description: xneelo, ZA
+CIDR: 129.232.224.208/28
+Number of IP Addresses: 268435456
+
+asn_description: BN-AS-KR Korea Fast Networks, KR
+CIDR: 43.227.112.0/22
+Number of IP Addresses: 4194304
+
+asn_description: DIGITALOCEAN-ASN - DigitalOcean, LLC, US
+CIDR: 139.59.0.0/17, 139.59.128.0/18, 139.59.192.0/19, 139.59.224.0/20, 139.59.240.0/21, 139.59.248.0/22, 139.59.252.0/23, 139.59.254.0/24, 139.59.255.0/25, 139.59.255.128/26, 139.59.255.192/27, 139.59.255.224/28, 139.59.255.240/29, 139.59.255.248/30, 139.59.255.252/31, 139.59.255.254/32
+Number of IP Addresses: 2
+
+asn_description: VDT-AS, NG
+CIDR: 41.216.170.128/28
+Number of IP Addresses: 268435456
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 104.64.0.0/10
+Number of IP Addresses: 1024
+
+asn_description: CENTURYLINK-US-LEGACY-QWEST - CenturyLink Communications, LLC, US
+CIDR: 68.176.0.0/15
+Number of IP Addresses: 32768
+
+asn_description: BBIL-AP BHARTI Airtel Ltd., IN
+CIDR: 23.32.0.0/11, 23.64.0.0/14
+Number of IP Addresses: 2
+
+asn_description: BEZEQ-INTERNATIONAL-AS Bezeqint Internet Backbone, IL
+CIDR: 79.183.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: YAHOO-2 Yahoo Japan Corporation, JP
+CIDR: 154.34.0.0/18
+Number of IP Addresses: 262144
+
+asn_description: WTT-AS-AP WTT HK Limited, HK
+CIDR: 202.126.208.0/21, 202.126.216.0/22, 202.126.220.0/23, 202.126.222.0/24
+Number of IP Addresses: 4
+
+asn_description: CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+CIDR: 39.96.0.0/13, 39.104.0.0/14, 39.108.0.0/16
+Number of IP Addresses: 2
+
+asn_description: CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+CIDR: 139.129.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+CIDR: 121.40.0.0/14
+Number of IP Addresses: 16384
+
+asn_description: AS50873, DE
+CIDR: 185.250.168.0/24
+Number of IP Addresses: 16777216
+
+asn_description: COMCAST-7922 - Comcast Cable Communications, LLC, US
+CIDR: 68.58.0.0/17
+Number of IP Addresses: 131072
+
+asn_description: SOLUCIONES INSTALRED CH&C C.A., VE
+CIDR: 45.234.60.0/22
+Number of IP Addresses: 4194304
+
+asn_description: PROXAD, FR
+CIDR: 83.152.0.0/14
+Number of IP Addresses: 16384
+
+asn_description: CHINA169-BJ China Unicom Beijing Province Network, CN
+CIDR: 114.255.121.0/25
+Number of IP Addresses: 33554432
+
+asn_description: TMNET-AS-AP TM Net, Internet Service Provider, MY
+CIDR: 23.32.0.0/11, 23.64.0.0/14
+Number of IP Addresses: 2
+
+asn_description: TELEFONICA TELXIUS, ES
+CIDR: 104.64.0.0/10
+Number of IP Addresses: 1024
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 23.32.96.0/20
+Number of IP Addresses: 1048576
+
+asn_description: ETB - Colombia, CO
+CIDR: 201.245.199.32/27
+Number of IP Addresses: 134217728
+
+asn_description: GOOGLE - Google LLC, US
+CIDR: 34.64.0.0/10
+Number of IP Addresses: 1024
+
+asn_description: INMOTI-1 - InMotion Hosting, Inc., US
+CIDR: 23.235.192.0/24
+Number of IP Addresses: 16777216
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 104.90.108.0/22
+Number of IP Addresses: 4194304
+
+asn_description: CMNET-GD Guangdong Mobile Communication Co.Ltd., CN
+CIDR: 221.181.64.0/18
+Number of IP Addresses: 262144
+
+asn_description: KIXS-AS-KR Korea Telecom, KR
+CIDR: 59.0.0.0/11
+Number of IP Addresses: 2048
+
+asn_description: CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+CIDR: 121.196.0.0/14
+Number of IP Addresses: 16384
+
+asn_description: NET1-AS, BG
+CIDR: 46.249.64.0/20
+Number of IP Addresses: 1048576
+
+asn_description: KIXS-AS-KR Korea Telecom, KR
+CIDR: 222.96.0.0/12, 222.112.0.0/13, 222.120.0.0/15, 222.122.0.0/16
+Number of IP Addresses: 2
+
+asn_description: SKYLOGIC-AS, IT
+CIDR: 80.250.32.0/20
+Number of IP Addresses: 1048576
+
+asn_description: ASN-HATTELAND ---- Transits, NO
+CIDR: 213.162.241.0/24
+Number of IP Addresses: 16777216
+
+asn_description: TERAGO-RACKFORCE - TeraGo Networks Inc., CA
+CIDR: 209.97.192.0/19
+Number of IP Addresses: 524288
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 23.32.0.0/11, 23.64.0.0/14
+Number of IP Addresses: 2
+
+asn_description: Telmex Colombia S.A., CO
+CIDR: 181.56.0.0/13
+Number of IP Addresses: 8192
+
+asn_description: CMI-INT-HK Level 30, Tower 1, HK
+CIDR: 223.118.0.0/15
+Number of IP Addresses: 32768
+
+asn_description: RCS-RDS 73-75 Dr. Staicovici, RO
+CIDR: 82.76.24.0/23
+Number of IP Addresses: 8388608
+
+asn_description: HAMLINE-EDU - Hamline University, US
+CIDR: 138.192.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 104.64.0.0/10
+Number of IP Addresses: 1024
+
+asn_description: Vox-Telecom, ZA
+CIDR: 155.240.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: NEW MASTER PROVEDOR DE ACESSO A INTERNET, BR
+CIDR: 201.148.124.0/22
+Number of IP Addresses: 4194304
+
+asn_description: AMAZON-02 - Amazon.com, Inc., US
+CIDR: 52.48.0.0/14
+Number of IP Addresses: 16384
+
+asn_description: AMAZON-02 - Amazon.com, Inc., US
+CIDR: 18.194.0.0/15
+Number of IP Addresses: 32768
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 23.192.0.0/11
+Number of IP Addresses: 2048
+
+asn_description: IDEANET1-IN Idea Cellular Limited, IN
+CIDR: 104.64.0.0/10
+Number of IP Addresses: 1024
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 23.0.0.0/12
+Number of IP Addresses: 4096
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 23.32.0.0/11, 23.64.0.0/14
+Number of IP Addresses: 2
+
+asn_description: CNNIC-ALIBABA-CN-NET-AP Hangzhou Alibaba Advertising Co.,Ltd., CN
+CIDR: 223.4.0.0/14
+Number of IP Addresses: 16384
+
+asn_description: CLOUDIE-AS-AP Cloudie Limited, HK
+CIDR: 154.208.58.0/24
+Number of IP Addresses: 16777216
+
+asn_description: GOOGLE - Google LLC, US
+CIDR: 35.208.0.0/12, 35.224.0.0/12, 35.240.0.0/13
+Number of IP Addresses: 2
+
+asn_description: Telmex Colombia S.A., CO
+CIDR: 104.64.0.0/10
+Number of IP Addresses: 1024
+
+asn_description: CHINA169-BACKBONE CHINA UNICOM China169 Backbone, CN
+CIDR: 221.206.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: VODAFONE_ES, ES
+CIDR: 77.210.0.0/17, 77.210.128.0/18
+Number of IP Addresses: 2
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 104.64.0.0/10
+Number of IP Addresses: 1024
+
+asn_description: AKAMAI-AS - Akamai Technologies, Inc., US
+CIDR: 92.122.16.0/22
+Number of IP Addresses: 4194304
+
+asn_description: AMAZON-02 - Amazon.com, Inc., US
+CIDR: 50.16.0.0/14
+Number of IP Addresses: 16384
+
+asn_description: MSYS, DE
+CIDR: 164.61.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: CONTABO, DE
+CIDR: 5.189.128.0/20
+Number of IP Addresses: 1048576
+
+asn_description: GMOCL GMO CLOUD K.K., JP
+CIDR: 180.222.176.0/20
+Number of IP Addresses: 1048576
+
+asn_description: DOC-AS - Department of Communications, CA
+CIDR: 142.92.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: JANET Jisc Services Limited, GB
+CIDR: 134.220.0.0/16
+Number of IP Addresses: 65536
+
+asn_description: COMING-AS ABCDE GROUP COMPANY LIMITED, HK
+CIDR: 154.209.173.0/24
+Number of IP Addresses: 16777216
+
+asn_description: DEDIPATH-LLC - DediPath, US
+CIDR: 45.14.44.0/23
+Number of IP Addresses: 8388608
+
+asn_description: ATLANT-TELECOM-AS AtlantTelecom Autonomus System, BY
+CIDR: 213.184.245.0/24
+Number of IP Addresses: 16777216
+
+asn_description: GLOBALNET-AS, TN
+CIDR: 41.225.0.0/16
+Number of IP Addresses: 65536
+
